@@ -1,11 +1,13 @@
 ---
-title: "quartodemo"
+title: "Quarto Demo"
+image: IMG_0047.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: GitHub
+      href: https://github.com/laurynhowlett
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Ivy is the best cat in the world
